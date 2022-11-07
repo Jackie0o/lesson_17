@@ -522,6 +522,7 @@ main {
 @media (max-width:980.98px) {
 	.list__body {
 		display: inline-flex;
+		color: #000; 
 	}
 }
 .list__item {
