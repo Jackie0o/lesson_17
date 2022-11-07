@@ -33,6 +33,11 @@ body {
 	background: transparent;
 	z-index: 100;
 }
+@media (max-width:689.98px) {
+	.header {
+		padding: 12px 0;
+	}
+}
 .header__container {
 	display: flex;
 	align-items: center;
