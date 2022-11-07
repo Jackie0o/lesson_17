@@ -652,6 +652,11 @@ main {
 	position: relative;
 	z-index: 2;
 }
+@media (max-width:689.98px) {
+	.footer__title {
+		font-size: 18px;
+	}
+}
 .footer__link {
 	flex: 0 1 55px;
 }
